@@ -44,6 +44,6 @@ yarn test
 
 👤 **SteerC**
 
-- Website: https://productsway.com/
+- Telegram : dev
 - Skype : Hermann Anders
 - Gmail : SkySteerC@gmail.com
